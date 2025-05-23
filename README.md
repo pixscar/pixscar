@@ -21,73 +21,38 @@ I'm an extremely curious person with a strong scientific background. I discovere
 
 ### 🔹 Languages & Markup
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><sub>Java</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br><sub>C</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br><sub>TypeScript</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><sub>HTML</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br><sub>CSS</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br><sub>PostgreSQL</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br><sub>Bash</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40"/><br><sub>XML</sub>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40"/>
+</p>
+
+<p align="center">
+  <sub>Java &nbsp;&nbsp; C &nbsp;&nbsp; JavaScript &nbsp;&nbsp; TypeScript &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS &nbsp;&nbsp; PostgreSQL &nbsp;&nbsp; Bash &nbsp;&nbsp; XML</sub>
+</p>
 
 ---
 
 ### 🔹 Frameworks, Tools & Platforms
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br><sub>Spring Boot</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br><sub>Docker</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><sub>Git</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br><sub>GitHub</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br><sub>VS Code</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/><br><sub>IntelliJ</sub>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+</p>
+
+<p align="center">
+  <sub>Spring Boot &nbsp;&nbsp; Docker &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code &nbsp;&nbsp; IntelliJ</sub>
+</p>
 
 ---
 
