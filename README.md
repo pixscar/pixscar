@@ -1,5 +1,5 @@
 <!-- Header image -->
-<img src="https://raw.githubusercontent.com/pixscar/assets/main/image.png" alt="banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/pixscar/assets/main/image.png"/>
 
 # Piero Scarcina
 
