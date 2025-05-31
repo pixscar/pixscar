@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Header](https://raw.githubusercontent.com/pixscar/assets/main/image.png)
+![Header](header.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Junior+Java+Developer;Always+Learning+New+Things;Problem+Solver+%26+Critical+Thinker)](https://git.io/typing-svg)
 
