@@ -16,7 +16,7 @@
 
 I'm an extremely curious person with a strong scientific background. I discovered in software development a field that truly satisfies my desire to understand, improve, and learn every day. Each project is an opportunity to apply what I learn in a concrete way, with critical thinking, attention to detail, and method.
 
-🧠 I'm passionate about how programming combines logic, precision, and creativity. I enjoy analyzing problems and finding functional, meaningful solutions — both in code and in context.
+🧠 I'm passionate about how programming combines logic, precision, and creativity. I enjoy analyzing problems and finding functional, meaningful solutions.
 
 ---
 
