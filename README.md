@@ -33,9 +33,6 @@ I'm an extremely curious person with a strong scientific background. I discovere
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-  <sub>Java &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp; Bash</sub>
-</p>
 
 ### 🔹 Frameworks, Tools & Platforms
 <p align="center">
@@ -46,9 +43,6 @@ I'm an extremely curious person with a strong scientific background. I discovere
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
-</p>
-<p align="center">
-  <sub>Spring Boot &nbsp;&nbsp;&nbsp;&nbsp; Docker &nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; IntelliJ &nbsp;&nbsp;&nbsp;&nbsp; Angular</sub>
 </p>
 
 **Additional Experience**: Maven • Postman • JDBC • Hibernate • Thymeleaf • REST APIs • Shell/Terminal
