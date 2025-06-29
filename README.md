@@ -35,7 +35,9 @@ I'm passionate about how programming combines logic, precision, and creativity. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <sub>Java &nbsp;&nbsp;&nbsp;&nbsp; C &nbsp;&nbsp;&nbsp;&nbsp;  JavaScript &nbsp;&nbsp;&nbsp;&nbsp;  TypeScript &nbsp;&nbsp;&nbsp;&nbsp; HTML  &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL &nbsp;&nbsp;&nbsp;&nbsp;  Bash</sub>
+  <div>
+    Java | C | JavaScript | TypeScript | HTML | CSS | PostgreSQL | Bash</sub>
+  </div>
 </p>
 
 ### Frameworks, Tools & Platforms
