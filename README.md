@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Junior+Java+Developer;Always+Learning+New+Things;Problem+Solver+%26+Critical+Thinker)](https://git.io/typing-svg)
 
-**Rome, Italy** | **Student at 42 Roma Luiss & Generation Italy**
+**Rome, Italy** | **Student at 42 Roma Luiss**
 
 
 </div>
